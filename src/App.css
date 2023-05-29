@@ -36,3 +36,60 @@
     transform: rotate(360deg);
   }
 }
+
+.rgq{
+  right:12px;
+}
+
+.one{
+  color:#98EECC;
+}
+
+.dt{
+  color: #AEE2FF;
+}
+
+.dt,.line,.day{
+  display: inline;
+  
+}
+
+.line{
+  color:#A0D8B3;
+}
+
+.day{
+  color:#D4FAFC;
+}
+
+.load{
+  color:royalblue;
+}
+
+.qttext{
+  color:#FF6D60;
+}
+
+.by{
+  color:#454545;
+}
+
+.qtauthor{
+  color:#E11299;
+}
+.btn{
+  color:#B0A4A4;
+  text-decoration:wavy;
+  border-color: gray;
+  border-radius:12px;
+  border: -2px;
+  
+}
+.btn:hover{
+  
+  border-color: #B3C99C;
+  cursor:pointer;
+  
+}
+
+
