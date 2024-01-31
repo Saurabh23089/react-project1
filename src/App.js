@@ -44,7 +44,7 @@ function QuoteGenerator(){
   <>
     <h1 className='one'>Random Quote Generator!</h1>
     <div className='rqg'>
-    <h2 className='dt'>{`${datedigit} ${date} 2023 `}</h2>
+    <h2 className='dt'>{`${datedigit} ${date} 2024 `}</h2>
     <h2 className='line'>|| </h2>
     <h2 className='day'>{`${day}`}</h2>
     </div>
